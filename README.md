@@ -31,7 +31,7 @@ El proceso de build vía **Maven**.
 
 
 Existen múltiples maneras de ejecutar un proyeto Spring Boot de manera local
-Ona manera es ejecutar el método `main` en el archivo Invoker (`cl.bci.invoker.OpenAPI2SpringBoot` class) desde tu IDE.
+Una manera es ejecutar el método `main` en el archivo Invoker (`cl.bci.invoker.OpenAPI2SpringBoot` class) desde tu IDE.
 
 Alternativamente, se puede utilizar el [plugin Maven Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) de esta manera:
 
